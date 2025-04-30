@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hairsaloon\n"
+"POT-Creation-Date: 2023-11-30 16:50+0530\n"
+"PO-Revision-Date: 2023-11-30 16:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: Alexathemes Team <support@alexathemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr_e;esc_html_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: block-patterns.php:17
+msgid "Hairsaloon"
+msgstr ""
+
+#: inc/about.php:48
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:59
+msgid "Getting Started with Hairsaloon!"
+msgstr ""
+
+#: inc/about.php:60
+msgid ""
+"Awesome! Hairsaloon has been installed and activated successfully. Now, you "
+"can start building your dream website with a wide range of highly-"
+"customizable block patterns, templates, and template parts available in this "
+"astounding theme."
+msgstr ""
+
+#: inc/about.php:66
+msgid "More Features with Hairsaloon Pro Theme"
+msgstr ""
+
+#: inc/about.php:67
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Hairsaloon Pro. With the pro theme installed, get more options "
+"like google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:68
+msgid "Buy Hairsaloon Pro"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:79
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:80
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:87
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:88
+msgid ""
+"Loved Hairsaloon? Feel free to leave your feedback. Your opinion helps us "
+"reach more audiences!"
+msgstr ""
+
+#: inc/about.php:89
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid ""
+"Sorry, the page you are looking for doesn&apos;t exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php:45
+#: patterns/footer.php:159
+#: patterns/single.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:53
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:61
+#: patterns/single.php:89
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:14
+msgid "Welcome To Hair Salon"
+msgstr ""
+
+#: patterns/banner.php:19
+msgid "Refresh Your Style And Renew Your Looks"
+msgstr ""
+
+#: patterns/banner.php:23
+msgid ""
+"This is the place where we help you to find your own unique identity. Humour "
+"is powerful. It drives emotion. And we tend to remember things that we "
+"associate with an emotion better. Always fulfilling your expectations."
+msgstr ""
+
+#: patterns/banner.php:28
+msgid "See How We Do It"
+msgstr ""
+
+#: patterns/footer.php:57
+msgid "Customer Services"
+msgstr ""
+
+#: patterns/footer.php:62
+msgid ">> Haircuts"
+msgstr ""
+
+#: patterns/footer.php:66
+msgid ">> Hair Care"
+msgstr ""
+
+#: patterns/footer.php:70
+msgid ">> Moustache And Beard"
+msgstr ""
+
+#: patterns/footer.php:74
+msgid ">> Straight Razor Shaving"
+msgstr ""
+
+#: patterns/footer.php:78
+msgid ">> Royal Shave"
+msgstr ""
+
+#: patterns/footer.php:82
+msgid ">> Hair Coloring"
+msgstr ""
+
+#: patterns/footer.php:86
+msgid ">> Secure payment"
+msgstr ""
+
+#: patterns/footer.php:90
+msgid ">> Body Massage"
+msgstr ""
+
+#: patterns/footer.php:97
+msgid "About Hair salon"
+msgstr ""
+
+#: patterns/footer.php:102
+msgid ""
+"Hair Salon is a lot more than just a man’s hairdresser, it is even far more "
+"than a social club for men, it is exactly the place where you will find "
+"yourself and your identity."
+msgstr ""
+
+#: patterns/footer.php:111
+msgid "New York 18794, United States. 4568"
+msgstr ""
+
+#: patterns/footer.php:121
+#: patterns/footer.php:131
+msgid "+44-123-456-78"
+msgstr ""
+
+#: patterns/footer.php:141
+#: patterns/header.php:21
+msgid "example@example.com"
+msgstr ""
+
+#: patterns/footer.php:151
+#: patterns/threebox.php:37
+msgid "08:00 AM - 19:00 PM"
+msgstr ""
+
+#: patterns/footer.php:187
+msgid "© Copyright 2023. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:191
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:191
+msgid "Alexa Themes"
+msgstr ""
+
+#: patterns/footer.php:191
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:191
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:191
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header.php:35
+msgid "+00-123-456-78"
+msgstr ""
+
+#: patterns/header.php:55
+msgid "Book Now"
+msgstr ""
+
+#: patterns/recent-news.php:14
+msgid "From The Blog"
+msgstr ""
+
+#: patterns/recent-news.php:19
+msgid "Standard Blog Post With Latest News"
+msgstr ""
+
+#: patterns/services.php:14
+msgid "Our Services"
+msgstr ""
+
+#: patterns/services.php:19
+msgid "What We Are Offering Premium Services"
+msgstr ""
+
+#: patterns/services.php:40
+msgid "Hair Cut"
+msgstr ""
+
+#: patterns/services.php:44
+#: patterns/services.php:66
+#: patterns/services.php:88
+#: patterns/services.php:112
+#: patterns/services.php:134
+#: patterns/services.php:156
+msgid ""
+"Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in "
+"laying out print…"
+msgstr ""
+
+#: patterns/services.php:62
+msgid "Moustache Trim"
+msgstr ""
+
+#: patterns/services.php:84
+msgid "Face Shave"
+msgstr ""
+
+#: patterns/services.php:108
+msgid "Beard Trim"
+msgstr ""
+
+#: patterns/services.php:130
+msgid "Clipper Cut"
+msgstr ""
+
+#: patterns/services.php:152
+msgid "Facial Massage"
+msgstr ""
+
+#: patterns/single.php:81
+msgid "Categories"
+msgstr ""
+
+#: patterns/testimonials.php:15
+msgid "Our Testimonials"
+msgstr ""
+
+#: patterns/testimonials.php:20
+msgid "What Our Clients Say Feedback?"
+msgstr ""
+
+#: patterns/testimonials.php:38
+msgid "Mark Marley"
+msgstr ""
+
+#: patterns/testimonials.php:42
+msgid " Wahington"
+msgstr ""
+
+#: patterns/testimonials.php:50
+msgid ""
+"Curabitur ullamcorper dolor massa. Nunc non mi faucibus, vestibulum magna "
+"eget, lacinia dui. Sed maximus, nisl id accumsan molestie, velit magna "
+"hendrerit ipsum, quis blandit lorem sapien ac purus. Donec nec feugiat erat, "
+"ut..."
+msgstr ""
+
+#: patterns/threebox.php:14
+msgid "About Barber Services"
+msgstr ""
+
+#: patterns/threebox.php:22
+msgid "Opening Hours"
+msgstr ""
+
+#: patterns/threebox.php:27
+msgid "Monday"
+msgstr ""
+
+#: patterns/threebox.php:43
+msgid "Tuesday To Friday"
+msgstr ""
+
+#: patterns/threebox.php:53
+msgid "08:00 AM - 17:30 PM"
+msgstr ""
+
+#: patterns/threebox.php:59
+msgid "Saturday"
+msgstr ""
+
+#: patterns/threebox.php:69
+msgid "08:00 AM - 15:30 PM"
+msgstr ""
+
+#: patterns/threebox.php:75
+msgid "Sunday"
+msgstr ""
+
+#: patterns/threebox.php:85
+msgid "Closed"
+msgstr ""
+
+#: patterns/threebox.php:94
+msgid "About SPA Services"
+msgstr ""
